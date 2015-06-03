@@ -14,7 +14,8 @@ namespace SWEN
         {
 
         }
-
+        //this is to update the staff details when the button is clicked
+        //StaffID is auto-generated, the staff would have to entered their assigned ID to update their details.
         protected void btnUpdateStaffDetails_Click(object sender, EventArgs e)
         {
             StaffInfo staff = new StaffInfo();
