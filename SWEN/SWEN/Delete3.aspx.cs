@@ -13,5 +13,7 @@ namespace SWEN.Room_Booking_Module
         {
 
         }
+        
+        //This page only show the users that their booking is successfully cancelled
     }
 }
