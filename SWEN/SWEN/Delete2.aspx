@@ -1,0 +1,22 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Delete2.aspx.cs" Inherits="SWEN.Room_Booking_Module.Delete2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    
+        Are you sure you want to cancel the booking?</div>
+        <br />
+        <br />
+        <asp:Button ID="btnDeleteYes" runat="server" OnClick="btnDeleteYes_Click" Text="Yes" />
+        <br />
+        <br />
+        <asp:Button ID="btnDeleteNo" runat="server" OnClick="btnDeleteNo_Click" Text="No" Width="37px" />
+    </form>
+</body>
+</html>

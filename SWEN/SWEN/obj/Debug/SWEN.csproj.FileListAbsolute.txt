@@ -1,0 +1,20 @@
+c:\users\public\documents\documents\visual studio 2012\Projects\SWEN\SWEN\bin\SWEN.dll
+c:\users\public\documents\documents\visual studio 2012\Projects\SWEN\SWEN\bin\SWEN.pdb
+c:\users\public\documents\documents\visual studio 2012\Projects\SWEN\SWEN\obj\Debug\SWEN.csprojResolveAssemblyReference.cache
+c:\users\public\documents\documents\visual studio 2012\Projects\SWEN\SWEN\obj\Debug\SWEN.dll
+c:\users\public\documents\documents\visual studio 2012\Projects\SWEN\SWEN\obj\Debug\SWEN.pdb
+C:\Users\Nursyafiah\Desktop\SWEN\SWEN\bin\SWEN.dll
+C:\Users\Nursyafiah\Desktop\SWEN\SWEN\bin\SWEN.pdb
+C:\Users\Nursyafiah\Desktop\SWEN\SWEN\obj\Debug\SWEN.csprojResolveAssemblyReference.cache
+C:\Users\Nursyafiah\Desktop\SWEN\SWEN\obj\Debug\SWEN.dll
+C:\Users\Nursyafiah\Desktop\SWEN\SWEN\obj\Debug\SWEN.pdb
+C:\Users\Brenda\Desktop\SWEN\SWEN\SWEN\obj\Debug\SWEN.csprojResolveAssemblyReference.cache
+C:\Users\Brenda\Desktop\SWEN\SWEN\SWEN\bin\SWEN.dll
+C:\Users\Brenda\Desktop\SWEN\SWEN\SWEN\bin\SWEN.pdb
+C:\Users\Brenda\Desktop\SWEN\SWEN\SWEN\obj\Debug\SWEN.dll
+C:\Users\Brenda\Desktop\SWEN\SWEN\SWEN\obj\Debug\SWEN.pdb
+C:\Users\User\Desktop\SWEN\SWEN\SWEN\bin\SWEN.dll
+C:\Users\User\Desktop\SWEN\SWEN\SWEN\bin\SWEN.pdb
+C:\Users\User\Desktop\SWEN\SWEN\SWEN\obj\Debug\SWEN.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SWEN\SWEN\SWEN\obj\Debug\SWEN.dll
+C:\Users\User\Desktop\SWEN\SWEN\SWEN\obj\Debug\SWEN.pdb
