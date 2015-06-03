@@ -9,7 +9,7 @@
 
 namespace SWEN {
     
-    
+    //I made use of grid view to display all the information of the staffs knows their assigned duties
     public partial class Housekeeping {
         
         /// <summary>
